@@ -3,7 +3,7 @@
 - 🔭 Eu trabalho como tech recruiter
 - 🌱 Aqui tenho códigos simples para ajudar
 - 👩‍💻 Estudando desenvolvimento web
-- 😄 Pronouns: ela/dela/she
+- 😄 Pronouns: ela/dela
 - 🦄 Cosplayer
 - 🐾 6 gatos e 1 dog
 
