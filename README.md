@@ -18,6 +18,7 @@
   <img align="center" alt="Alice-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alice-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="right" alt="Alice-gif" src="https://i.picasion.com/pic91/e06417a03fc98c9883936e87f75007ad.gif">
+  <img src="https://komarev.com/ghpvc/?username=Ana-Alice-Honorio&color=green" alt="Ana-Alice-Honorio" /> 
 </div>
   
   ##
