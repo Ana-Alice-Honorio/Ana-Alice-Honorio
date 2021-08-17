@@ -30,7 +30,7 @@
  <a href = "ana.alice.honorio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
  <a href="https://www.youtube.com/channel/UC2G8rcDd0uDDNSMkxJStf1w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  	<a href="https://discord.gg/3kG2arcADs" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  	<a href="https://discord.gg/6eANUCxp" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/Ana-Alice-Honorio/Ana-Alice-Honorio/blob/output/github-contribution-grid-snake.svg)
  
