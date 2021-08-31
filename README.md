@@ -7,6 +7,8 @@
 - 🦄 Cosplayer
 - 🐾 6 gatos e 1 dog
 
+##
+
 <div>
   <a href="https://github.com/Ana-Alice-Honorio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ana-Alice-Honorio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
