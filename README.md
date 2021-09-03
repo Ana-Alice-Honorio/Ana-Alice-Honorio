@@ -1,11 +1,12 @@
-### Hello, sou Ana Alice Honório 👩‍🚀
-
+### Hello, sou Ana Alice Honório 👩‍🚀 <img align="left" alt="Alice-avatar" src="http://i.picasion.com/resize91/c8f8b78c6b66a0387dc0a5c3e4e2b267.png">
 - 🔭 Eu trabalho como Tech Recruiter
 - 👩‍💻 Estudando desenvolvimento web na Trybe
 - 🦄 Cosplayer
-- 🐾 6 gatos e 1 dog
-  <img align="right" alt="Alice-avatar" src="http://i.picasion.com/resize91/c8f8b78c6b66a0387dc0a5c3e4e2b267.png">
+- 🐾 6 gatos e 1 dog 
+<br>
+<br>
 
+##
 
 <div>
   <a href="https://github.com/Ana-Alice-Honorio">
