@@ -22,7 +22,6 @@
   <img align="center" alt="Alice-boo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Alice-Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
   <img align="center" alt="Alice-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="right" alt="Alice-gif" src="https://i.picasion.com/pic91/f2e72c7eaac805b6c89bbcec8b1b13a1.gif">
 </div> 
   
   ##
