@@ -4,6 +4,7 @@
 - 👩‍💻 Estudando desenvolvimento web na Trybe
 - 🦄 Cosplayer
 - 🐾 6 gatos e 1 dog
+  <img align="right" alt="Alice-avatar" src="http://i.picasion.com/resize91/c8f8b78c6b66a0387dc0a5c3e4e2b267.png">
 
 ##
 
