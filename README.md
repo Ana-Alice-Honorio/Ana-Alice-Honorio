@@ -1,8 +1,8 @@
 ### Hello, sou Ana Alice Honório 👩‍🚀
-- 🔭 Eu trabalho como Tech Recruiter
-- 👩‍💻 Estudando desenvolvimento web na Trybe
-- 🦄 Cosplayer
-- 🐾 6 gatos e 1 dog 
+- 🔭 I'm Tech Recruiter
+- 👩‍💻 I'm a Web Dev Student at Trybe
+- 🦄 I'm Cosplayer
+- 🐾 I have 6 cats and 1 dog 
 
 ##
 
