@@ -10,6 +10,7 @@
   <a href="https://github.com/Ana-Alice-Honorio">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ana-Alice-Honorio&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Alice-Honorio&layout=compact&langs_count=7&theme=merko"/>
+  <img src="https://komarev.com/ghpvc/?username=Ana-Alice-Honorio&color=Green">
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Alice-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
