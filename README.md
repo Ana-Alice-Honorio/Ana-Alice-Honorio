@@ -36,7 +36,9 @@
  </a>
  <a href="https://www.twitter.com/alicedorh"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
  </a>
-  
+ <a href="https://pt.quora.com/profile/Alicedorh"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" target="_blank">
+ </a>
+   
   ![Snake animation](https://github.com/Ana-Alice-Honorio/Ana-Alice-Honorio/blob/output/github-contribution-grid-snake.svg)
  
 </div>
