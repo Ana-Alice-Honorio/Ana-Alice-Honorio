@@ -1,4 +1,4 @@
-### Hello, sou Ana Alice Honório 👩‍🚀
+### Hello, I'm Ana Alice Honório 👩‍🚀
 - 🔭 I'm Tech Recruiter
 - 👩‍💻 I'm a Web Dev Student at Trybe
 - 🦄 I'm Cosplayer
