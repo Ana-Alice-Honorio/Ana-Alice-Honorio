@@ -32,7 +32,7 @@
  </a>
  <a href="https://t.me/alicedorh"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
  </a>
-   <a href="https://www.reddit.com/u/Alicedorh?utm_medium=android_app&utm_source=share"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank">
+   <a href="https://www.reddit.com/u/Alicedorh"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank">
  </a>
   
   ![Snake animation](https://github.com/Ana-Alice-Honorio/Ana-Alice-Honorio/blob/output/github-contribution-grid-snake.svg)
