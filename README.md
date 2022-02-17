@@ -1,6 +1,6 @@
 ### Hello, I'm Ana Alice Honório 👩‍🚀
 - 🔭 I'm Tech Recruiter
-- 👩‍💻 I'm a Web Dev Student at Trybe
+- 👩‍💻 I'm a Web Developer Student
 - 🔥 I'm studying Golang
 - 🦄 I'm Cosplayer
 - 🐾 I have 8 cats and 1 dog 
