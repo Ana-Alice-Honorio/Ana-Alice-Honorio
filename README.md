@@ -3,7 +3,7 @@
 - 👩‍💻 I'm a Web Developer Student
 - 🔥 I'm studying Golang
 - 🦄 I'm Cosplayer
-- 🐾 I have 8 cats and 1 dog 
+- 🐾 I have 8 cats
 
 ##
 
