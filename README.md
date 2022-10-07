@@ -1,6 +1,4 @@
 ### Hello, I'm Ana Alice Honório 👩‍🚀
-- 🦄 I'm Cosplayer
-- 🐾 I have 8 cats
 
 ##
 
