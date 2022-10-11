@@ -8,15 +8,19 @@ Olá, tudo bom? Sou Alice, mineira que mora no RJ. casada, mãe de Aurora. Sou u
 import Desenvolvedora from 'Ana Alice';
 
 class SobreMim extends Desenvolvedora {
-  nome     = 'Ana Alice Honório';
-  area    = 'Fullstack';
+  nome = 'Ana Alice Honório';
+  area  = 'Fullstack';
+  filha = 'Aurora';
   local = 'Itaboraí - RJ';
 }
 
 class Skills extends Desenvolvedora {
-  backend = ['Node.js', 'Express.js', 'Typescript', 'Golang'];
-  frontend = ['React.js', 'Next.js']
-  bancoDeDados = ['MySQL', 'MongoDB']
+  aplicacoesDados = ['Javascript', 'HTML5', 'CSS3', 'React.js', 'Hooks',
+  'Redux', 'Context API', 'Node.js','Express.js', 'Typescript', 
+  'Jest', 'MSC','SOLID', 'MySQL', 'MongoDB'];
+  utilidades = ['Sequelize', 'Postman', 'Insomnia'];
+  devops = ['Docker', 'Git', 'Github', 'CI/CD'];
+  ferramentasDeDesenvolvimento = ['Trello', 'Visual Studio Code'];
 }
 ```
 
