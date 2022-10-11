@@ -21,14 +21,10 @@ class Skills extends Desenvolvedora {
 ```
 
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=ana.alice.honorio@gmail.com" /></a>
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flasquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaalicehonorio" /></a>
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/alicedorh"/></a>
-   <a href="#" alt="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-0e76a8?style=flasquare&logo=Twitter&logoColor=white&link=https://www.twitter.com/alicedorh"/></a>
+ <a href = "mailto:ana.alice.honorio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/anaalicehonorio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://instagram.com/alicedorh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitter.com/alicedorh" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </p>  
 
 ## **Linguagens e Ferramentas:**  
