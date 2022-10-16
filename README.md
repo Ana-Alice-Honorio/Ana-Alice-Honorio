@@ -1,6 +1,6 @@
 Hi, how are you? I'm Alice, from Minas Gerais who lives in RJ. married, mother of Aurora. I'm a tech recruiter who decided to become a developer. Since 2021 studying web development.
 
-## Mais sobre mim
+## More about me
 
 <img align="right" width="300" src="cat.gif" />
 
@@ -58,8 +58,11 @@ class Skills extends Developer {
 <div>
   <a href="https://github.com/Ana-Alice-Honorio">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Alice-Honorio&layout=compact&langs_count=7&theme=merko"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ana-Alice-Honorio&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/> 
 </div>
+
   <div style="display: inline_block"><br>
+  
     
 ![Snake animation](https://github.com/Ana-Alice-Honorio/Ana-Alice-Honorio/blob/output/github-contribution-grid-snake.svg)
     
