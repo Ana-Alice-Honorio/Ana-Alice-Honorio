@@ -5,22 +5,22 @@ Olá, tudo bom? Sou Alice, mineira que mora no RJ. casada, mãe de Aurora. Sou u
 <img align="right" width="300" src="cat.gif" />
 
 ```js
-import Desenvolvedora from 'Ana Alice';
+import Developer from 'Ana Alice';
 
-class SobreMim extends Desenvolvedora {
-  nome = 'Ana Alice Honório';
+class aboutMe extends Developer{
+  name = 'Ana Alice Honório';
   area  = 'Fullstack';
-  filha = 'Aurora';
+  daughter = 'Aurora';
   local = 'Itaboraí - RJ';
 }
 
-class Skills extends Desenvolvedora {
-  aplicacoesDados = ['Javascript', 'HTML5', 'CSS3', 'React.js', 'Hooks',
+class Skills extends Developer {
+  aplicationsAndData = ['Javascript', 'HTML5', 'CSS3', 'React.js', 'Hooks',
   'Redux', 'Context API', 'Node.js','Express.js', 'Typescript', 
   'Jest', 'MSC','SOLID', 'MySQL', 'MongoDB'];
-  utilidades = ['Sequelize', 'Postman', 'Insomnia'];
+  utilities = ['Sequelize', 'Postman', 'Insomnia'];
   devops = ['Docker', 'Git', 'Github', 'CI/CD'];
-  ferramentasDeDesenvolvimento = ['Trello', 'Visual Studio Code'];
+  developmentTools = ['Trello', 'Visual Studio Code'];
 }
 ```
 
@@ -30,7 +30,7 @@ class Skills extends Desenvolvedora {
 <a href="https://www.twitter.com/alicedorh" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </p>  
 
-## **Linguagens e Ferramentas:**  
+## **Languages and Tools:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
