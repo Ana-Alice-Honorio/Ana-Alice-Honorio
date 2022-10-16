@@ -1,4 +1,4 @@
-Olá, tudo bom? Sou Alice, mineira que mora no RJ. casada, mãe de Aurora. Sou uma tech recruiter que decidiu virar dev. Desde 2021 estudando desenvolvimento web.
+Hi, how are you? I'm Alice, from Minas Gerais who lives in RJ. married, mother of Aurora. I'm a tech recruiter who decided to become a developer. Since 2021 studying web development.
 
 ## Mais sobre mim
 
@@ -15,9 +15,9 @@ class aboutMe extends Developer{
 }
 
 class Skills extends Developer {
-  aplicationsAndData = ['Javascript', 'HTML5', 'CSS3', 'React.js', 'Hooks',
-  'Redux', 'Context API', 'Node.js','Express.js', 'Typescript', 
-  'Jest', 'MSC','SOLID', 'MySQL', 'MongoDB'];
+  aplicationsAndData = ['Javascript', 'HTML5', 'CSS3', 'React.js', 
+  'Hooks', 'Redux', 'Context API', 'Node.js','Express.js', 
+  'Typescript', 'Jest', 'MSC','SOLID', 'MySQL', 'MongoDB'];
   utilities = ['Sequelize', 'Postman', 'Insomnia'];
   devops = ['Docker', 'Git', 'Github', 'CI/CD'];
   developmentTools = ['Trello', 'Visual Studio Code'];
@@ -57,7 +57,6 @@ class Skills extends Developer {
 
 <div>
   <a href="https://github.com/Ana-Alice-Honorio">
-<!--   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ana-Alice-Honorio&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/> -->
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Alice-Honorio&layout=compact&langs_count=7&theme=merko"/>
 </div>
   <div style="display: inline_block"><br>
