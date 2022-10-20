@@ -2,7 +2,6 @@ Hi, how are you? I'm Alice, from Minas Gerais who lives in RJ. married, mother o
 
 ## More about me
 
-<img align="right" width="300" src="cat.gif" />
 
 ```js
 import Developer from 'Ana Alice';
