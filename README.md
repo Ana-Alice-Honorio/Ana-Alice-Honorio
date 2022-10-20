@@ -14,13 +14,14 @@ class aboutMe extends Developer{
 }
 
 class Skills extends Developer {
-  aplicationsAndData = ['Javascript', 'HTML5', 
-  'CSS3', 'React.js', 'Hooks', 'Redux',
-  'Context API', 'Node.js','Express.js','Typescript',
-  'Jest', 'MSC','SOLID', 'MySQL', 'MongoDB'];
-  utilities = ['Sequelize', 'Postman', 'Insomnia'];
-  devops = ['Docker', 'Git', 'Github', 'CI/CD'];
-  developmentTools = ['Trello', 'Visual Studio Code'];
+  aplicationsAndData = ['Javascript','HTML5', 
+  'CSS3','React.js','Hooks','Redux',
+  'Context API','Node.js','Express.js',
+  'Typescript','Jest','MSC','SOLID',
+  'MySQL','MongoDB'];
+  utilities = ['Sequelize','Postman','Insomnia'];
+  devops = ['Docker','Git','Github','CI/CD'];
+  developmentTools = ['Trello','Visual Studio Code'];
 }
 ```
 
