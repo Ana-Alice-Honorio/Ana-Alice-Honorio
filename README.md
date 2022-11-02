@@ -50,17 +50,11 @@ class Skills extends Developer {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
-
-<div>
-<img src="https://komarev.com/ghpvc/?username=Ana-Alice-Honorio&color=green">
-</div>
-
 ## 
 
 <div>
   <a href="https://github.com/Ana-Alice-Honorio">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Alice-Honorio&layout=compact&langs_count=7&theme=merko"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ana-Alice-Honorio&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/> 
 </div>
 
   <div style="display: inline_block"><br>
