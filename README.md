@@ -16,12 +16,12 @@ class aboutMe extends Developer{
 
 class Skills extends Developer {
   aplicationsAndData = ['Javascript','HTML5', 
-  'CSS3','React.js','Hooks','Redux',
+  'CSS3','React.js','Redux',
   'Context API','Node.js','Express.js',
-  'Typescript','Jest','MSC','SOLID',
+  'Typescript','Jest','MSC',
   'MySQL','MongoDB'];
-  utilities = ['Sequelize','Postman','Insomnia'];
-  devops = ['Docker','Git','Github','CI/CD'];
+  utilities = ['Sequelize','Postman'];
+  devops = ['Docker','Git','Github'];
   developmentTools = ['Trello','Visual Studio Code'];
 }
 ```
