@@ -4,7 +4,7 @@
 <a href="https://instagram.com/alicedorh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitter.com/alicedorh" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </p>  
-<div align="center"><img src="https://komarev.com/ghpvc/?username=Ana-Alice-Honorio&style=flat-square&color=blue" alt=""/></div>
+
 
 ##
 
