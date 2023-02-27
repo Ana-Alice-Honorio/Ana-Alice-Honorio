@@ -39,10 +39,19 @@ I recently started acting as a developer using Javascript stacks.
 
 ##
 
-### :fire: My Stats :
+<div>
+  <a href="https://github.com/Ana-Alice-Honorio">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Alice-Honorio&layout=compact&langs_count=7&theme=merko"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ana-Alice-Honorio&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/> 
+</div>
+  
+## 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Alice-Honorio&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
+ <div style="display: inline_block"><br>
+  
+    
+![Snake animation](https://github.com/Ana-Alice-Honorio/Ana-Alice-Honorio/blob/output/github-contribution-grid-snake.svg)
+    
+</div> 
   
  
