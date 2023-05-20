@@ -15,7 +15,9 @@ I recently started acting as a developer using Javascript stacks.
 
 ##
 
-### :hammer_and_wrench: Languages and Tools :
+<h3>
+  Languages and Tools
+</h3>
 <div >
 <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
@@ -32,7 +34,7 @@ I recently started acting as a developer using Javascript stacks.
 
 ##
 
-<div align="center" >
+<div>
   <a href="https://github.com/Ana-Alice-Honorio">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Alice-Honorio&layout=compact&langs_count=7&theme=merko"/>
     
