@@ -1,6 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Ana-Alice-Honorio&color=006bed)
-
-##
 <h3> More about me </h3>
 
 You can call me Alice.
@@ -45,6 +42,8 @@ I graduated in 2019 in HR. Since then I have worked as a recruiter specifically 
 </div>
 <br/>
 
+ ![](https://komarev.com/ghpvc/?username=Ana-Alice-Honorio&color=006bed)
+ 
   ##
   
 <h3> Where to find me: </h3> 
