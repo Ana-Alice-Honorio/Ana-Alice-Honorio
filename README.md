@@ -13,6 +13,7 @@ I graduated in 2019 in HR. Since then I have worked as a recruiter specifically 
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+  ![Node](https://img.shields.io/badge/Node.js-35495E?style=flat&logo=node.js)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **Utils**
