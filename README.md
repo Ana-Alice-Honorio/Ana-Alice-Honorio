@@ -50,5 +50,11 @@ I graduated in 2019 in HR. Since then I have worked as a recruiter specifically 
 <h3> Where to find me: </h3> 
 
 [![Linkedin Ana](https://img.shields.io/badge/-anaalicehonorio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/anaalicehonorio/)
-[![Gmail Badge](https://img.shields.io/badge/-ana.alice.honorio@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:ana.alice.honorio@gmail.com)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/Ana-Alice-Honorio?label=follow&style=social)](https://github.com/Ana-Alice-Honorio)
+ 
+ <div style="display: inline_block"><br>
+   
+![Snake animation](https://github.com/Ana-Alice-Honorio/Ana-Alice-Honorio/blob/output/github-contribution-grid-snake.svg) 
+   
+</div> 
+
