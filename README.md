@@ -31,21 +31,11 @@ I graduated in 2019 in HR. Since then I have worked as a recruiter specifically 
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-
-##
-
-<br/>
-<div>
-  <a href="https://github.com/Ana-Alice-Honorio">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Alice-Honorio&layout=compact&langs_count=7&theme=merko"/>
-    
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ana-Alice-Honorio&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/> 
-</div>
-<br/>
-
- ![](https://komarev.com/ghpvc/?username=Ana-Alice-Honorio&color=006bed)
  
   ##
+ <br/>
+ 
+ ![](https://komarev.com/ghpvc/?username=Ana-Alice-Honorio&color=006bed)
   
 <h3> Where to find me: </h3> 
 
