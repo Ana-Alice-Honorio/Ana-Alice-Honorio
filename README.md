@@ -9,9 +9,8 @@
 <h3>
   More about me
 </h3>
-You can call me Alice. From Minas Gerais and lives in RJ for just over 10 years. I'm married, I have a baby named Aurora and 8 pet cats. My hobby is reading, cosplay and chess. In addition to movies / series.
+You can call me Alice.
 I graduated in 2019 in HR. Since then I have worked as a recruiter specifically in IT. I started studying software development and here I am.
-I recently started acting as a developer using Javascript stacks.
 
 ##
 
@@ -19,17 +18,17 @@ I recently started acting as a developer using Javascript stacks.
   Languages and Tools
 </h3>
 <div >
-<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 
 ##
