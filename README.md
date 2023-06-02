@@ -1,7 +1,11 @@
 <h3> More about me </h3>
 
+Hello welcome to my profile.
+
 You can call me Alice.
-I graduated in 2019 in HR. Since then I have worked as a recruiter specifically in IT. I started studying software development and here I am.
+I worked from Jan/2020 to Aug/2022 as a tech recruiter and migrated to the development area.
+
+Today I work as a Fullstack with Javascript stacks and strengthening my knowledge in the Infra/DevOps area.
 
 ##
 
@@ -61,13 +65,6 @@ I graduated in 2019 in HR. Since then I have worked as a recruiter specifically 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=flat&logo=Ubuntu)
 
   ##
- <br/>
- 
- <div>
-  <a href="https://github.com/Ana-Alice-Honorio">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Alice-Honorio&layout=compact&langs_count=7&theme=merko"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ana-Alice-Honorio&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/> 
-</div>
  
  ![](https://komarev.com/ghpvc/?username=Ana-Alice-Honorio&color=006bed)
   
