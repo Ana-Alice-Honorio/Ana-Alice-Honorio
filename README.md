@@ -68,8 +68,6 @@ Today I work as a Fullstack with Javascript stacks and strengthening my knowledg
  
  ![](https://komarev.com/ghpvc/?username=Ana-Alice-Honorio&color=006bed)
   
-  ##
-  
 <h3> Where to find me: </h3> 
 
 [![Linkedin Ana](https://img.shields.io/badge/-anaalicehonorio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/anaalicehonorio/)
