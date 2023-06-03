@@ -65,7 +65,12 @@ Today I work as a Fullstack with Javascript stacks and strengthening my knowledg
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=flat&logo=Ubuntu)
 
   ##
- 
+ <div>
+  <a href="https://github.com/Ana-Alice-Honorio">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Alice-Honorio&layout=compact&langs_count=7&theme=merko"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ana-Alice-Honorio&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/> 
+</div>
+  
  ![](https://komarev.com/ghpvc/?username=Ana-Alice-Honorio&color=006bed)
   
 <h3> Where to find me: </h3> 
