@@ -1,12 +1,10 @@
 <h3> More about me </h3>
 
-Hello welcome to my profile.
+👋Hello welcome to my profile.
 
 You can call me Alice.
-I worked from Jan/2020 to Aug/2022 as a tech recruiter and migrated to the development area.
 
-Today I work as a Fullstack with Javascript stacks and strengthening my knowledge in the Infra/DevOps area.
-
+I worked from Jan/2020 to Aug/2022 as a tech recruiter and migrated to the development area. Today I work with Javascript stacks and strengthening my knowledge in the Infra/DevOps area.
 ##
 
 **Languages**
