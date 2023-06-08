@@ -1,6 +1,6 @@
 <h3> More about me </h3>
 
-👋Hello welcome to my profile.
+👋Hello welcome to my profile!
 
 You can call me Alice.
 
