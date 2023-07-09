@@ -56,7 +56,7 @@ I worked from Jan/2020 to Aug/2022 as a tech recruiter and migrated to the devel
 
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-35495E?style=flat&logo=GoogleChrome)
 ![Firefox](https://img.shields.io/badge/Firefox-35495E?style=flat&logo=Firefox-Browser)
-![Brave](https://img.shields.io/badge/Brave-35495E?style=flat&logo=Brave-Browser)
+![Brave](https://img.shields.io/badge/Brave-35495E?style=flat&logo=Brave)
 
 **OS**
 
