@@ -4,7 +4,7 @@
 
 You can call me Alice.
 
-I worked from Jan/2020 to Aug/2022 as a tech recruiter and migrated to the development area. Today I work with Javascript stacks and strengthening my knowledge in the Infra/DevOps area.
+My role from January 2020 to August 2022 was as a Tech Recruiter, but later I migrated to the development area. Currently, I work with JavaScript stacks and I am improving my knowledge in Infrastructure and DevOps.
 ##
 
 **Languages**
@@ -12,7 +12,7 @@ I worked from Jan/2020 to Aug/2022 as a tech recruiter and migrated to the devel
   ![Java](https://img.shields.io/badge/Java-35495E.svg?style=flat&logo=openjdk)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-35495E??style=flat&logo=Javascript)
   ![TypeScript](https://img.shields.io/badge/Typescript-35495E.svg?style=flat&logo=Typescript)
-  ![Python](https://img.shields.io/badge/python-35495E?style=flat&logo=Python)
+  ![Python](https://img.shields.io/badge/Python-35495E?style=flat&logo=Python)
   ![HTML5](https://img.shields.io/badge/-HTML5-35495E??style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS3-35495E??style=flat&logo=CSS3&logoColor=1572B6)
   ![Markdown](https://img.shields.io/badge/Markdown-35495E.svg?style=flat&logo=markdown)
