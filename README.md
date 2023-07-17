@@ -81,9 +81,5 @@ My role from January 2020 to August 2022 was as a Tech Recruiter, but later I mi
 [![Linkedin Ana](https://img.shields.io/badge/-anaalicehonorio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/anaalicehonorio/)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/Ana-Alice-Honorio?label=follow&style=social)](https://github.com/Ana-Alice-Honorio)
  
- <div style="display: inline_block"><br>
-   
-![Snake animation](https://github.com/Ana-Alice-Honorio/Ana-Alice-Honorio/blob/output/github-contribution-grid-snake.svg) 
-   
-</div> 
+
 
