@@ -65,7 +65,7 @@ My role from January 2020 to August 2022 was as a Tech Recruiter, but later I mi
 
 ![Linux](https://img.shields.io/badge/Linux-35495E?style=flat&logo=linux)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=flat&logo=Ubuntu)
-![Windows](https://img.shields.io/badge/Windows-35495E?style=flat&logo=Windows-10)
+![Windows](https://img.shields.io/badge/Windows-35495E?style=flat&logo=windows-10)
 
   ##
 
