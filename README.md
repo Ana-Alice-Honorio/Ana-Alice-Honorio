@@ -67,6 +67,9 @@ My role from January 2020 to August 2022 was as a Tech Recruiter, but later I mi
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=flat&logo=Ubuntu)
 ![Windows](https://img.shields.io/badge/Windows-35495E?style=flat&logo=windows-10)
 
+[![card](https://github-readme-stats.vercel.app/api?username=Ana-Alice-Honorio&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Alice-Honorio&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
   ##
 
 ![](https://komarev.com/ghpvc/?username=Ana-Alice-Honorio&color=006bed)
