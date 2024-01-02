@@ -1,13 +1,12 @@
-<h3> More about me </h3>
+<h3> Mais sobre mim </h3>
 
-👋Hello welcome to my profile!
+👋 olá bem vindo(a) ao meu perfil. 
 
-You can call me Alice.
+Minha atuação de janeiro de 2020 a agosto de 2022 foi como Tech Recruiter, mas posteriormente migrei para a área de desenvolvimento. Atualmente, trabalho com as stacks de JavaScript e estou aprimorando meus conhecimentos em Infraestrutura e DevOps.
 
-My role from January 2020 to August 2022 was as a Tech Recruiter, but later I migrated to the development area. Currently, I work with JavaScript stacks and I am improving my knowledge in Infrastructure and DevOps.
-##
+Posso contribuir de maneira significativa em equipes técnicas trazendo minhas habilidades de recrutamento.
 
-**Languages**
+**Linguagens**
 
   ![Java](https://img.shields.io/badge/Java-35495E.svg?style=flat&logo=openjdk&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-35495E??style=flat&logo=Javascript)
@@ -17,7 +16,7 @@ My role from January 2020 to August 2022 was as a Tech Recruiter, but later I mi
   ![CSS](https://img.shields.io/badge/-CSS3-35495E??style=flat&logo=CSS3&logoColor=1572B6)
   ![Markdown](https://img.shields.io/badge/Markdown-35495E.svg?style=flat&logo=markdown&logoColor=black)
   
- **Frameworks, Platforms and Libraries**
+ **Frameworks, Plataformas e bibliotecas**
  
  ![Node](https://img.shields.io/badge/Node.js-35495E?style=flat&logo=node.js)
  ![Express.js](https://img.shields.io/badge/Express.js-35495E.svg?style=flat&logo=express)
@@ -29,7 +28,7 @@ My role from January 2020 to August 2022 was as a Tech Recruiter, but later I mi
  ![Insomnia](https://img.shields.io/badge/-Insomnia-35495E??style=flat&logo=insomnia&logoColor=5800CF)
  ![Postman](https://img.shields.io/badge/-Postman-35495E??style=flat&logo=postman)
  
-**Databases**
+**Bancos**
 
  ![MySQL](https://img.shields.io/badge/-MySQL-35495E??style=flat&logo=mysql)
  ![Postgres](https://img.shields.io/badge/Postgres-35495E.svg?style=flat&logo=postgresql)
@@ -49,7 +48,7 @@ My role from January 2020 to August 2022 was as a Tech Recruiter, but later I mi
   ![AWS](https://img.shields.io/badge/Amazon_AWS-35495E?style=flat&logo=amazonaws&logoColor=yellow)
   ![Terraform](https://img.shields.io/badge/Terraform-35495E??style=flat&logo=terraform&logoColor=7B42BC)
 
-**Developer Tools**
+**Ferramentas**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-35495E??style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-35495E.svg?style=flat&logo=intellij-idea)
@@ -61,7 +60,7 @@ My role from January 2020 to August 2022 was as a Tech Recruiter, but later I mi
 ![Firefox](https://img.shields.io/badge/Firefox-35495E?style=flat&logo=Firefox-Browser)
 ![Brave](https://img.shields.io/badge/Brave-35495E?style=flat&logo=Brave)
 
-**OS**
+**SO**
 
 ![Linux](https://img.shields.io/badge/Linux-35495E?style=flat&logo=linux)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=flat&logo=Ubuntu)
@@ -74,7 +73,7 @@ My role from January 2020 to August 2022 was as a Tech Recruiter, but later I mi
 
 ![](https://komarev.com/ghpvc/?username=Ana-Alice-Honorio&color=006bed)
   
-<h3> Where to find me: </h3> 
+<h3> Onde me encontrar: </h3> 
 
 [![Linkedin Ana](https://img.shields.io/badge/-anaalicehonorio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/anaalicehonorio/)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/Ana-Alice-Honorio?label=follow&style=social)](https://github.com/Ana-Alice-Honorio)
