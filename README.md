@@ -1,10 +1,4 @@
-<h3> Mais sobre mim </h3>
-
 👋 olá bem vindo(a) ao meu perfil. 
-
-Minha atuação de janeiro de 2020 a agosto de 2022 foi como Tech Recruiter, mas posteriormente migrei para a área de desenvolvimento. Atualmente, trabalho com as stacks de JavaScript e estou aprimorando meus conhecimentos em Infraestrutura e DevOps.
-
-Posso contribuir de maneira significativa em equipes técnicas trazendo minhas habilidades de recrutamento.
 
 **Linguagens**
 
