@@ -18,8 +18,8 @@
  ![React](https://img.shields.io/badge/-React-35495E??style=flat&logo=react)
  ![Next JS](https://img.shields.io/badge/Next-35495E?style=flat&logo=next.js&logoColor=black)
  ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+ ![Bootstrap](https://img.shields.io/badge/Bootstrap-35495E?style=flat&logo=bootstrap&logoColor=7B42BC)
  ![Quasar](https://img.shields.io/badge/Quasar-35495E?style=flat&logo=quasar&logoColor=00AFF8)
- ![Insomnia](https://img.shields.io/badge/-Insomnia-35495E??style=flat&logo=insomnia&logoColor=5800CF)
  ![Postman](https://img.shields.io/badge/-Postman-35495E??style=flat&logo=postman)
  
 **Bancos**
