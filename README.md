@@ -1,68 +1,32 @@
-👋 olá bem vindo(a) ao meu perfil. 
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRjb29uMWxlZTMzNWl3YW9nZ3VmOGp6NGJheDgwc2hxc2V2OHZhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ptqAPgghLtHOa0SLJS/giphy.gif" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-**Linguagens**
+<p align="left"> 
+Olá, sou Alice, uma desenvolvedora web com  <strong>Javascript</strong>.<br>
+Hoje trabalho como frontend usando Vue.js mas faço coisas pontuais no backend com Node.js
+</p>
 
-  ![Java](https://img.shields.io/badge/Java-35495E.svg?style=flat&logo=openjdk&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-35495E??style=flat&logo=Javascript)
-  ![TypeScript](https://img.shields.io/badge/Typescript-35495E.svg?style=flat&logo=Typescript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-35495E??style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS3-35495E??style=flat&logo=CSS3&logoColor=1572B6)
-  ![Markdown](https://img.shields.io/badge/Markdown-35495E.svg?style=flat&logo=markdown&logoColor=black)
-  
- **Frameworks, Plataformas e bibliotecas**
- 
- ![Node](https://img.shields.io/badge/Node.js-35495E?style=flat&logo=node.js)
- ![Express.js](https://img.shields.io/badge/Express.js-35495E.svg?style=flat&logo=express)
- ![Nodemon](https://img.shields.io/badge/Nodemon-35495E.svg?style=flat&logo=nodemon)
- ![React](https://img.shields.io/badge/-React-35495E??style=flat&logo=react)
- ![Next JS](https://img.shields.io/badge/Next-35495E?style=flat&logo=next.js&logoColor=black)
- ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
- ![Bootstrap](https://img.shields.io/badge/Bootstrap-35495E?style=flat&logo=bootstrap&logoColor=7B42BC)
- ![Quasar](https://img.shields.io/badge/Quasar-35495E?style=flat&logo=quasar&logoColor=00AFF8)
- ![Postman](https://img.shields.io/badge/-Postman-35495E??style=flat&logo=postman)
- 
-**Bancos**
+<p align="left">
+  🦄 Linguagens: <strong>Javascript, Typescript, CSS, HTML, Markdown</strong> 
+</p>
 
- ![MySQL](https://img.shields.io/badge/-MySQL-35495E??style=flat&logo=mysql)
- ![Postgres](https://img.shields.io/badge/Postgres-35495E.svg?style=flat&logo=postgresql)
- ![MongoDB](https://img.shields.io/badge/MongoDB-35495E.svg?style=flat&logo=mongodb)
+<p align="left">
+  🔮 Frameworks e libs: <strong>Node, Vue, React, Bootstrap, Quasar</strong>
+</p>
 
-**Hosting/SaaS**
+<p align="left">
+  🎲 Bancos: <strong> MySQL, PostgreSQL, MongoDB</strong>
+</p>
 
-![Github Pages](https://img.shields.io/badge/Github%20Pages-35495E?style=flat&logo=Github)
-![Heroku](https://img.shields.io/badge/Heroku-35495E.svg?style=flat&logo=Heroku&logoColor=430098)
-![Vercel](https://img.shields.io/badge/Vercel-35495E.svg?style=flat&logo=Vercel&logoColor=black)
+<p align="left">
+  ☁ Cloud: <strong>AWS</strong>
+</p>
 
-**DevOps**
+<p align="left">
+  💼 Ferramentas: <strong>VS Code, Postman, Trello</strong>
+</p>
 
-  ![Git](https://img.shields.io/badge/-Git-35495E??style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-35495E?style=flat&logo=github)
-  ![Docker](https://img.shields.io/badge/-Docker-35495E??style=flat&logo=docker)
-  ![AWS](https://img.shields.io/badge/Amazon_AWS-35495E?style=flat&logo=amazonaws&logoColor=yellow)
-  ![Terraform](https://img.shields.io/badge/Terraform-35495E??style=flat&logo=terraform&logoColor=7B42BC)
-
-**Ferramentas**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-35495E??style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-35495E.svg?style=flat&logo=intellij-idea)
-  ![Trello](https://img.shields.io/badge/-Trello-35495E??style=flat&logo=trello&logoColor=007ACC)
- 
-**Browser**
-
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-35495E?style=flat&logo=GoogleChrome)
-![Firefox](https://img.shields.io/badge/Firefox-35495E?style=flat&logo=Firefox-Browser)
-![Brave](https://img.shields.io/badge/Brave-35495E?style=flat&logo=Brave)
-
-**SO**
-
-![Linux](https://img.shields.io/badge/Linux-35495E?style=flat&logo=linux)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=flat&logo=Ubuntu)
-![Windows](https://img.shields.io/badge/Windows-35495E?style=flat&logo=windows-10)
-
-[![card](https://github-readme-stats.vercel.app/api?username=Ana-Alice-Honorio&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Alice-Honorio&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-  ##
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ana-Alice-Honorio&rank_icon=github)](https://github.com/Ana-Alice-Honorio/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Alice-Honorio&hide_progress=true)
 
 ![](https://komarev.com/ghpvc/?username=Ana-Alice-Honorio&color=006bed)
   
