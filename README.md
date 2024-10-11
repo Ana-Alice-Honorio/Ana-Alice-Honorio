@@ -10,7 +10,7 @@ Hoje trabalho como frontend usando Vue.js mas faço coisas pontuais no backend c
 </p>
 
 <p align="left">
-  🔮 Frameworks e libs: <strong>Node, Vue, React, Bootstrap, Quasar</strong>
+  🔮 Frameworks e libs: <strong>Node, Express, Vue, React, Bootstrap, Quasar</strong>
 </p>
 
 <p align="left">
@@ -22,7 +22,19 @@ Hoje trabalho como frontend usando Vue.js mas faço coisas pontuais no backend c
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, Postman, Trello</strong>
+  🔃 Versionamento/armazenamento: <strong>Git, Github, Bitbucket</strong>
+</p>
+
+<p align="left">
+  💼 Deploy: <strong>Vercel, Heroku, Github Pages</strong>
+</p>
+
+<p align="left">
+  🛠 Ferramentas: <strong>VS Code, Postman, Trello, DBeaver</strong>
+</p>
+
+<p align="left">
+  💻 SO/Kernel: <strong>Windows, Linux</strong>
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ana-Alice-Honorio&rank_icon=github)](https://github.com/Ana-Alice-Honorio/github-readme-stats)
