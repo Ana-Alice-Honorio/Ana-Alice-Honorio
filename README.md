@@ -39,6 +39,15 @@ Hoje trabalho como frontend usando Vue.js mas faço coisas pontuais no backend c
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ana-Alice-Honorio&rank_icon=github)](https://github.com/Ana-Alice-Honorio/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Alice-Honorio&hide_progress=true)
+<img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Ana-Alice-Honorio&theme=dark&hide_border=true"
+        alt="Github Stats"
+      />
+
+
+--- 
+
 
 ![](https://komarev.com/ghpvc/?username=Ana-Alice-Honorio&color=006bed)
   
