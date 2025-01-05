@@ -54,8 +54,9 @@ Hoje trabalho como frontend usando Vue.js mas faço coisas pontuais no backend c
   
 <h3> Onde me encontrar: </h3> 
 
-[![Linkedin Ana](https://img.shields.io/badge/-anaalicehonorio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/anaalicehonorio/)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/Ana-Alice-Honorio?label=follow&style=social)](https://github.com/Ana-Alice-Honorio)
+[![Linkedin Ana Alice](https://img.shields.io/badge/-anaalicehonorio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/anaalicehonorio/)
+[![Instagram Ana Alice](https://img.shields.io/badge/instagram?style=flat-square&logo=Instagram&logoColor=white&link=)](https://www.instagram.com/geek_in_code)
+[![GitHub Ana Alice]( https://img.shields.io/github/followers/Ana-Alice-Honorio?label=follow&style=social)](https://github.com/Ana-Alice-Honorio)
  
 
 
