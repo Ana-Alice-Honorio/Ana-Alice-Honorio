@@ -2,7 +2,7 @@
 
 <p align="left"> 
 Olá, sou Alice, uma desenvolvedora web com  <strong>Javascript</strong>.<br>
-Hoje trabalho como frontend usando Vue.js mas faço coisas pontuais no backend com Node.js. Cursando graduação em ADS.
+Hoje trabalho como frontend usando Vue.js mas faço coisas pontuais no backend com Node.js. Cursando graduação em Análise e Desenvolvimento de Sistemas.
 </p>
 
 <p align="left">
